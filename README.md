@@ -11,6 +11,10 @@
   [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)\
   pytorch 實作知名論文
 
+- ![](https://img.shields.io/github/stars/facebookresearch/fairseq?style=social)
+  [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)
+  Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+  
 - ![](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions?style=social)
   [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
   深度學習面試500問，19章知識教學
@@ -19,7 +23,7 @@
   [xue-pai/FuxiCTR](https://github.com/xue-pai/FuxiCTR)
   點擊率預測任務 AI 模型集合，以及訓練框架。用於線上廣告投放、推薦系統。
 
-- ![]((https://img.shields.io/github/stars/ashishpatel26/Awesome-Pytorch-Tutorials?style=social)
+- ![](https://img.shields.io/github/stars/ashishpatel26/Awesome-Pytorch-Tutorials?style=social)
   [ashishpatel26/Awesome-Pytorch-Tutorials](https://github.com/ashishpatel26/Awesome-Pytorch-Tutorials)
   Pytorch 教學集合，有很多 colab 範例。
   
